@@ -1,0 +1,12 @@
+.input {
+  height: 40px;
+  width: 60%;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  opacity: 0.6;
+  background: transparent;
+  border-bottom: 2px solid black;
+  padding-left: 40px;
+  box-sizing: border-box;
+}
