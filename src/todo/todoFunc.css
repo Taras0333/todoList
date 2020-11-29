@@ -1,12 +1,31 @@
-.input {
-  height: 40px;
+.input-cont {
   width: 60%;
+  height: 40px;
+  border-bottom: 2px solid black;
   margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.input {
+  height: 100%;
+  width: 90%;
   border: none;
   outline: none;
   opacity: 0.6;
   background: transparent;
-  border-bottom: 2px solid black;
-  padding-left: 40px;
+  padding-left: 25px;
   box-sizing: border-box;
+}
+.intup-save {
+  width: 10%;
+  height: 100%;
+  opacity: 0.6;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+.input-icon {
+  width: 15px;
+  cursor: pointer;
 }
