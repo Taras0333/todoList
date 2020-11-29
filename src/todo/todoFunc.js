@@ -21,13 +21,16 @@ const getTaskByEnter = (e) => {
     }
 }
 const save = () => {
-    let copy = [...state];
-    copy.push({
-        name: task,
-     })
-    updateState(copy);
-    updateTask('');
-    updateInputValue('');
+    if(task){
+        let copy = [...state];
+        copy.push({
+            name: task,
+         })
+        updateState(copy);
+        updateTask('');
+        updateInputValue('');
+    }
+   
 }
 const move = (e)=>{
     let element = '';
