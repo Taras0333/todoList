@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todoList/static/css/main.b9627cc1.chunk.css",
+    "main.js": "/todoList/static/js/main.c74f0af9.chunk.js",
+    "main.js.map": "/todoList/static/js/main.c74f0af9.chunk.js.map",
+    "runtime-main.js": "/todoList/static/js/runtime-main.4579db0f.js",
+    "runtime-main.js.map": "/todoList/static/js/runtime-main.4579db0f.js.map",
+    "static/js/2.21e6cbc9.chunk.js": "/todoList/static/js/2.21e6cbc9.chunk.js",
+    "static/js/2.21e6cbc9.chunk.js.map": "/todoList/static/js/2.21e6cbc9.chunk.js.map",
+    "static/js/3.4e2473a9.chunk.js": "/todoList/static/js/3.4e2473a9.chunk.js",
+    "static/js/3.4e2473a9.chunk.js.map": "/todoList/static/js/3.4e2473a9.chunk.js.map",
+    "index.html": "/todoList/index.html",
+    "static/css/main.b9627cc1.chunk.css.map": "/todoList/static/css/main.b9627cc1.chunk.css.map",
+    "static/js/2.21e6cbc9.chunk.js.LICENSE.txt": "/todoList/static/js/2.21e6cbc9.chunk.js.LICENSE.txt",
+    "static/media/blackBin.1ef3784d.svg": "/todoList/static/media/blackBin.1ef3784d.svg",
+    "static/media/check.3f730dd4.svg": "/todoList/static/media/check.3f730dd4.svg",
+    "static/media/logo.6ce24c58.svg": "/todoList/static/media/logo.6ce24c58.svg",
+    "static/media/whiteBin.e4efcb06.svg": "/todoList/static/media/whiteBin.e4efcb06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4579db0f.js",
+    "static/js/2.21e6cbc9.chunk.js",
+    "static/css/main.b9627cc1.chunk.css",
+    "static/js/main.c74f0af9.chunk.js"
+  ]
+}
